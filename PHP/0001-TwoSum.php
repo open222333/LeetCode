@@ -3,9 +3,9 @@ class Solution
 {
 
 	/**
-	 * @param Integer[] $nums
-	 * @param Integer $target
-	 * @return Integer[]
+	 * @param int|array $nums
+	 * @param int $target
+	 * @return int|array
 	 */
 	function twoSum(array $nums, int $target)
 	{
